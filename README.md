@@ -1,6 +1,8 @@
 # Blog des familles
 
 This is our first encounter with Rails, we only use it to practice our database knowledge.
+We are creating a Facebook-like blog platform, with users, articles, categories, comments and likes functionalites.
+The tables and architecture are detailed below.
 
 ## Gems and Libraries
 - `ActiveRecord` library to manipulate an sqlite3 database, it comes along with Rails.
